@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600&display=swap');
+
+.app {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Manrope', sans-serif;
+}
+
+.MuiInputBase-input.MuiOutlinedInput-input {
+  padding: 10px;
+  font-size: 14px;
+}
+
+.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.MuiInputBase-formControl {
+  margin-right: 8px;
+}
+
+.MuiBadge-badge.MuiBadge-standard.MuiBadge-anchorOriginTopRight.MuiBadge-anchorOriginTopRightRectangular.MuiBadge-overlapRectangular {
+  background-color: #ffff8d;
+}
+
+
+.MuiTypography-root.MuiTypography-body1.MuiFormControlLabel-label{
+  font-size: 12px;
+}
+
+/* .MuiTableContainer-root{
+
+} */
